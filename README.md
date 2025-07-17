@@ -13,8 +13,6 @@ This repository contains R scripts for simulating and analyzing different random
 - [Files in this Repository](#files-in-this-repository)
 - [Reproducibility](#reproducibility)
 - [Dependencies](#dependencies)
-- [How to Use](#how-to-use)
-- [Example Usage](#example-usage)
 
 ---
 
